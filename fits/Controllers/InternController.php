@@ -18,3 +18,4 @@ class InternController{
 }
 
 ?>
+<?php ?>
